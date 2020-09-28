@@ -1,3 +1,3 @@
 ## HypwnLab
 
-![](/images/logo1.png)
+![](/images/logo1.jpg)
