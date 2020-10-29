@@ -14,12 +14,18 @@ $(document).ready(function(e) {
         for(var k in shuffle(j)){
             data = j[k]
             /* name, hp, field, comment */
+            if(data['name'] == 'rbtree'){
+                var hp = "http://" + data['hp'];
+            }
+            else{
+                var hp = "https://" + data['hp'];
+            }
             html = "<div class=\"col-lg-4 profile\">\
                 <img class=\"pic\" src=\"image/"+data['name']+".jpg\" />\
                 <div class=\"name\">\
                     <div class=\"val\">"+data['name']+"\
                     <sup>\
-                        <a href=\"//"+data['hp']+"\"><i class=\"fas fa-link\"></i></a>\
+                        <a href=\"//"+hp+"\"><i class=\"fas fa-link\"></i></a>\
                     </sup>\
                     </div>\
                 </div>\
