@@ -25,7 +25,7 @@ $(document).ready(function(e) {
                 <div class=\"name\">\
                     <div class=\"val\">"+data['name']+"\
                     <sup>\
-                        <a href=\"//"+hp+"\"><i class=\"fas fa-link\"></i></a>\
+                        <a href=\""+hp+"\"><i class=\"fas fa-link\"></i></a>\
                     </sup>\
                     </div>\
                 </div>\
