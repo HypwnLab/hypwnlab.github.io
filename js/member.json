@@ -1,0 +1,50 @@
+[
+    {
+        "name": "extr",
+        "hp": "slime.kr",
+        "field": ["dfir", "windows pwn."],
+        "comment": "부레옥잠빨리키우기대회협회장 김뇽뇽"
+    },
+    {
+        "name": "cd80",
+        "hp": "#",
+        "field": ["development"],
+        "comment": "할말"
+    },
+    {
+        "name": "shpik",
+        "hp": "shpik.kr",
+        "field": ["web", "pwnable"],
+        "comment": "Emilia maji tenshi"
+    },
+    {
+        "name": "egoist",
+        "hp": "www.facebook.com/dhxkgozj",
+        "field": ["development"],
+        "comment": "부재시 경비실에 맡겨주세요"
+    },
+    {
+        "name": "molgryn",
+        "hp": "molgryn.me",
+        "field": ["program analysis", "exploit dev."],
+        "comment": "뚜방뚜방"
+    },
+    {
+        "name": "rbtree",
+        "hp": "rb-tree.xyz",
+        "field": ["cryptography", "reversing"],
+        "comment": "安藤×押田、最高です"
+    },
+    {
+        "name": "stypr",
+        "hp": "harold.kim",
+        "field": ["web", "animation"],
+        "comment": "에리리x우타하"
+    },
+    {
+        "name": "havu",
+        "hp": "kernel.re",
+        "field": ["reversing", "bug hunting"],
+        "comment": "호두 자두 주인입니다"
+    }
+]
