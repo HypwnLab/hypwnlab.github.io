@@ -54,6 +54,7 @@ p {
   vertical-align: middle;
 }
 .profile * .val {
+    font-size: 1.4em;
     position: relative;
     display: inline-block;
     
@@ -64,7 +65,7 @@ p {
   vertical-align: super;
 }
 .profile .comment{
-  font-size: 9px;
+  font-size: 12px;
 }
 .profile .comment span{
   margin: 0 3px 0 3px;
@@ -142,7 +143,7 @@ hr {
 
 .navbar-brand {
   font-weight: 700;
-  font-size: 20px;
+  font-size: 30px;
   letter-spacing: 2px;
 }
 
