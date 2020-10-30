@@ -145,14 +145,24 @@ hr {
   font-weight: 700;
   font-size: 30px;
   letter-spacing: 2px;
+  margin: 0 0 0 0;
 }
 
 .navbar-inverse .navbar-brand {
-  color: white;
+  color: azure;
 }
 
 .navbar-inverse .navbar-toggle {
   border-color: transparent;
+}
+
+.navbar-comment {
+  color:azure;
+  font-size: 14px;
+  text-align: center;
+}
+.navbar-comment span{
+  margin: 0 3px 0 3px;
 }
 
 .progress-bar-theme {
@@ -179,11 +189,11 @@ hr {
 }
 
 #footer p {
-  color: white;
+  color: azure;
 }
 
 #footer h4 {
-  color: white;
+  color: azure;
   text-transform: uppercase;
   padding-bottom: 20px;
 }
