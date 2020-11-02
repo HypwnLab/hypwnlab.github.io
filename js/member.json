@@ -2,49 +2,49 @@
     {
         "name": "extr",
         "hp": "slime.kr",
-        "field": ["dfir", "windows pwn."],
+        "field": ["DFIR", "Windows Pwn."],
         "comment": "부레옥잠빨리키우기대회협회장 김뇽뇽"
     },
     {
         "name": "cd80",
         "hp": "#",
-        "field": ["development"],
+        "field": ["Development", "Automation"],
         "comment": "Lorem Ipsum"
     },
     {
         "name": "shpik",
         "hp": "shpik.kr",
-        "field": ["web", "pwnable"],
+        "field": ["Web", "Pwnable"],
         "comment": "Emilia maji tenshi"
     },
     {
         "name": "egoist",
         "hp": "www.facebook.com/dhxkgozj",
-        "field": ["development"],
+        "field": ["Development", "Reversing"],
         "comment": "부재시 경비실에 맡겨주세요"
     },
     {
         "name": "molgryn",
         "hp": "molgryn.me",
-        "field": ["program analysis", "exploit dev."],
+        "field": ["Program analysis", "Exploit Dev."],
         "comment": "반갑습니다~"
     },
     {
         "name": "rbtree",
         "hp": "rb-tree.xyz",
-        "field": ["reversing", "cryptography"],
+        "field": ["Reversing", "Cryptography"],
         "comment": "安藤×押田、最高です"
     },
     {
         "name": "stypr",
         "hp": "harold.kim",
-        "field": ["web", "animation"],
+        "field": ["Web", "Animation"],
         "comment": "에리리x우타하"
     },
     {
         "name": "havu",
         "hp": "kernel.re",
-        "field": ["reversing", "bug hunting"],
+        "field": ["Reversing", "Bughunting"],
         "comment": "호두 자두 주인입니다"
     }
 ]
