@@ -1,9 +1,9 @@
 [
     {
         "name": "extr",
-        "hp": "slime.kr",
-        "field": ["DFIR", "Windows Pwn."],
-        "comment": "부레옥잠빨리키우기대회협회장 김뇽뇽"
+        "hp": "me.slime.kr",
+        "field": ["DFIR", "Windows Pwnable"],
+        "comment": "마라불닭볶음면 재출시 기원"
     },
     {
         "name": "cd80",
