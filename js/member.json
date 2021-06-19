@@ -40,5 +40,11 @@
         "hp": "kernel.re",
         "field": ["Reversing", "Bughunting"],
         "comment": "호두 자두 주인입니다"
+    },
+    {
+        "name": "fullmetal",
+        "hp": "#",
+        "field": ["Red Teaming", "Hardware"],
+        "comment": ""
     }
 ]
